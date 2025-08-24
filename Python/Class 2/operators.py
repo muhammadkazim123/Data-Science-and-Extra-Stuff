@@ -1,0 +1,6 @@
+print(12)
+print(1, 2, 3, 4, 5)
+print("akash")
+print("My weight is " ,69, "kg")
+print("kazim \n"*10)
+print("addition ", 12+23) 
