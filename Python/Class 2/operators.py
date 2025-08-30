@@ -4,3 +4,6 @@ print("akash")
 print("My weight is " ,69, "kg")
 print("kazim \n"*10)
 print("addition ", 12+23) 
+
+print("addition ", 12+23) 
+print("sub ")
